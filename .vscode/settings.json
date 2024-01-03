@@ -1,0 +1,7 @@
+{
+    "notebook.compactView": false,
+    "notebook.consolidatedRunButton": false,
+    "notebook.editorOptionsCustomizations": {
+        "editor.wordWrapColumn": 250
+    }
+}
